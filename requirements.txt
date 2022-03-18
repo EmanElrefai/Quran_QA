@@ -1,0 +1,17 @@
+certifi==2021.10.8
+charset-normalizer==2.0.11
+farasapy==0.0.14
+huggingface-hub==0.4.0
+idna==3.3
+matplotlib-base==3.3.4
+nltk==3.5
+numpy==1.19.5
+pandas==1.1.5
+requests==2.27.1
+regex==2021.3.17
+scikit-learn==0.24.1
+sklearn==0.0
+torch==1.10.2+cu113
+tqdm==4.62.3
+transformers==4.15.0
+urllib3==1.26.8
