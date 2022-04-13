@@ -22,9 +22,6 @@ The notebook of this architecture has the following steps:
 The Quran_Qa_ensemble_task notebook includes getting all models and executing the ensemble using the voting technique.
 
 
-#### Testing on our version testing data
-Our team answered the testing data to evaluate all our models on it before submitting it. This happened before the competition committee releases the testing data with answers. You can see the models' performance using the development and testing dataset in QA_results..xlsx
-
 ## Setup
 This project requires GPU acceleration to run efficiently. Support is available to use either of the following two methods for accessing GPU-enabled cloud computing resources.
 
